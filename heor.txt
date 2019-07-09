@@ -1,0 +1,1 @@
+hero ho tero <i class="fa fa-diamond" aria-hidden="true"></i>
